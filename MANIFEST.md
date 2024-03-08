@@ -1,0 +1,10 @@
+* CHANGES.md
+* MANIFEST.md
+* README.md
+* Rakefile
+* use.gemspec
+* certs/djberg96_pub.pem
+* examples/example_use.rb
+* lib/use.rb
+* test/test_use.rb
+* test/sample_data.rb
